@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "Missing You (그리워하다)",
+  "base_artist": "BTOB",
+  "createdAt": "2026-03-01T11:40:23.869577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Me Missing You",
+      "artist": "Craig Campbell",
+      "has_synced": false,
+      "path": "select/01_Me_Missing_You_Craig_Campbell.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Missing You",
+      "artist": "Lauren Weintraub",
+      "has_synced": true,
+      "path": "select/02_Missing_You_Lauren_Weintraub.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Missing You",
+      "artist": "Larry Heard",
+      "has_synced": false,
+      "path": "select/03_Missing_You_Larry_Heard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Missing You (feat. Novel) [New Version]",
+      "artist": "David Guetta - Novel",
+      "has_synced": true,
+      "path": "select/04_Missing_You_(feat._Novel)_[New_Version]_David_Guetta_-_Novel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Missing You (new version)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/05_Missing_You_(new_version)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Missing You (radio edit)",
+      "artist": "Alex Gaudino feat. Nicole Scherzinger",
+      "has_synced": false,
+      "path": "select/06_Missing_You_(radio_edit)_Alex_Gaudino_feat._Nicole_Scherzinger.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Missing You [Radio Edit]",
+      "artist": "Nicole Scherzinger",
+      "has_synced": false,
+      "path": "select/07_Missing_You_[Radio_Edit]_Nicole_Scherzinger.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Missing You",
+      "artist": "Paula Abdul",
+      "has_synced": true,
+      "path": "select/08_Missing_You_Paula_Abdul.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "There's too Much Blue in Missing You",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/09_There's_too_Much_Blue_in_Missing_You_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Missing You",
+      "artist": "Double You",
+      "has_synced": false,
+      "path": "select/10_Missing_You_Double_You.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Missing You (Summer Remix)",
+      "artist": "Double You",
+      "has_synced": false,
+      "path": "select/11_Missing_You_(Summer_Remix)_Double_You.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Missing You",
+      "artist": "A Place to Bury Strangers",
+      "has_synced": true,
+      "path": "select/12_Missing_You_A_Place_to_Bury_Strangers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Missing You",
+      "artist": "A Place To Bury Strangers",
+      "has_synced": false,
+      "path": "select/13_Missing_You_A_Place_To_Bury_Strangers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Missing You",
+      "artist": "Imogen Heap",
+      "has_synced": true,
+      "path": "select/14_Missing_You_Imogen_Heap.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Missing You",
+      "artist": "Jem",
+      "has_synced": false,
+      "path": "select/15_Missing_You_Jem.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ain't Missing You",
+      "artist": "Chief Keef feat. Jenn Em",
+      "has_synced": false,
+      "path": "select/16_Ain't_Missing_You_Chief_Keef_feat._Jenn_Em.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shahla's Missing Page",
+      "artist": "Amanda Palmer, Edward Ka-Spel",
+      "has_synced": true,
+      "path": "select/17_Shahla's_Missing_Page_Amanda_Palmer,_Edward_Ka-Spel.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Shahla's Missing Page",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/18_Shahla's_Missing_Page_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "He Ain't Worth Missing",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/19_He_Ain't_Worth_Missing_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "He Ain't Worth Missing (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/20_He_Ain't_Worth_Missing_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Missing One",
+      "artist": "Jameson Rodgers",
+      "has_synced": true,
+      "path": "select/21_Missing_One_Jameson_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Going Missing",
+      "artist": "Maxïmo Park",
+      "has_synced": true,
+      "path": "select/22_Going_Missing_Maxïmo_Park.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Someone's Missing",
+      "artist": "MGMT",
+      "has_synced": false,
+      "path": "select/23_Someone's_Missing_MGMT.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Missing (Ultramarine Remix)",
+      "artist": "Everything But the Girl",
+      "has_synced": false,
+      "path": "select/24_Missing_(Ultramarine_Remix)_Everything_But_the_Girl.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Missing Person",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/25_Missing_Person_Bladee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Missing You",
+      "artist": "BTOB",
+      "has_synced": false,
+      "path": "select/pl_01_Missing_You_BTOB.txt"
+    }
+  ]
+}
